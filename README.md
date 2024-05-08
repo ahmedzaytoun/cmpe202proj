@@ -7,3 +7,15 @@
     ```bash
     poetry shell
     ```
+
+3.  Install dependencies
+
+    ```bash
+    poetry install
+    ```
+
+4.  Run the server
+
+    ```bash
+    python manage.py runserver
+    ```
